@@ -24,6 +24,8 @@ CoursIA distingue :
 
 Modifier un exemple déjà résolu, recopier une solution existante ou seulement retirer un marqueur `TODO` ne constitue pas une correction. Si deux groupes proposent le même exercice, seule une contribution originale et attribuable peut être comptée.
 
+Première fois sur GitHub, ou première Pull Request à ouvrir ? Suivez le [Tutoriel GitHub pour les TPs](TUTORIEL-GITHUB-TP.md) : il reprend le parcours complet (compte, fork, branche, notebook, dépôt, PR, review) clic par clic.
+
 ## Déroulement d'un TP
 
 1. Consultez la liste de notebooks annoncée pour le TP en classe.
